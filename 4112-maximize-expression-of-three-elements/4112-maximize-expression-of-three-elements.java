@@ -1,35 +1,27 @@
 class Solution {
-    public int maximizeExpressionOfThree(int[] nums) {
-        int max=Integer.MIN_VALUE;
-        for(int i=0; i<nums.length; i++)
+    public int maximizeExpressionOfThree(int[] arr) {
+        int a=Integer.MIN_VALUE;
+        int b=Integer.MIN_VALUE;
+        int c=Integer.MAX_VALUE;
+
+        for(int i=0; i<arr.length; i++)
         {
-            for(int j=i+1; j<nums.length; j++)
+            if(arr[i]>a)
             {
-                for(int k=j+1; k<nums.length; k++)
-                {
-                    int a=nums[i];
-                    int b=nums[j];
-                    int c=nums[k];
+                b=a;
+                a=arr[i];
+            }
+            else if(arr[i]>b)
+            {
+                b=arr[i];
+            }
 
-                    int result=0;
-                    if(a<=b && a<=c)
-                    {
-                        result=b+c-a;
-                    }
-                    else if(b<=a && b<=c)
-                    {
-                         result=a+c-b;
-                    }
-                    else
-                    {
-                        result=a+b-c;
-                    }
-
-                    
-                    max=Math.max(result,max);
-                }
+            if(arr[i]<=c)
+            {
+                c=arr[i];
             }
         }
-        return max;
+        return a+b-c;
     }
 }
+//find maximum and 2nd maximum and smallest in array
