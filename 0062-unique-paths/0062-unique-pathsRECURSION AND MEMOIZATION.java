@@ -1,19 +1,23 @@
-// class Solution {
-//     public int f(int i,int j)
-//     {
+RECURSION//////////////////////////////////////////
+class Solution {
+    public int f(int i,int j)
+    {
         
-//         if(i==0 && j==0) return 1; // 1 path found
-//         if(i<0 || j<0) return 0;   // out of bound check condition
+        if(i==0 && j==0) return 1; // 1 path found
+        if(i<0 || j<0) return 0;   // out of bound check condition
 
-//         int up=f(i-1,j);          // go up
-//         int left=f(i,j-1);        // go left
+        int up=f(i-1,j);          // go up
+        int left=f(i,j-1);        // go left
 
-//         return up+left;           // total paths
-//     }
-//     public int uniquePaths(int m, int n) {
-//         return f(m-1,n-1);
-//     }
-// }
+        return up+left;           // total paths
+    }
+    public int uniquePaths(int m, int n) {
+        return f(m-1,n-1);
+    }
+}
+
+
+TABULATION/////////////////////////////////////////////////
 class Solution {
     int dp[][];
     public int f(int i,int j)
