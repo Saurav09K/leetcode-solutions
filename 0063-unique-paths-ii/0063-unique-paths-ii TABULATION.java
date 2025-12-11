@@ -24,8 +24,7 @@ class Solution {
          // if start or destination is blocked, no paths
         if (arr[0][0] == 1 || arr[n-1][m-1] == 1) return 0;
 
-       
-        if(arr[n-1][m-1]==1) return 0;// if obstacle is on the destination, directly return 0;
+
         dp=new int[n][m];
 
         dp[0][0]=1; //starting is 1
