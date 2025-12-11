@@ -1,3 +1,24 @@
+////////////////RECURSION
+class Solution {
+    public int f(int grid[][],int m,int n)
+    {
+        if(m==0 && n==0) return grid[0][0];
+        if(m<0 || n<0) return Integer.MAX_VALUE;
+
+        int top=f(grid,m-1,n);
+        int right=f(grid,m,n-1);
+
+        return grid[m][n]+Math.min(top,right);
+    }
+    public int minPathSum(int[][] grid) {
+        int m=grid.length;
+        int n=grid[0].length;
+
+        return f(grid,m-1,n-1);
+    }
+}
+
+///////////////////////////////////////////////////MEMOIZATION/////////////////
 class Solution {
     int dp[][];
     public int f(int grid[][],int m,int n)
