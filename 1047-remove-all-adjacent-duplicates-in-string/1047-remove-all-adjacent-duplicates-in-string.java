@@ -24,7 +24,7 @@ class Solution {
     }
 }
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-MORE OPTIMISED THAT THE ABOVE
+MORE OPTIMISED THAN THE ABOVE
 
 Let's break down the Two Pointer / Array approach. It can be tricky because it does everything "in place" without creating a new stack object.
 Think of it like this: You are rewriting the string onto itself.
