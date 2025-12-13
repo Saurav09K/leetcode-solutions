@@ -1,32 +1,35 @@
 class Solution {
-    boolean ispalindrome(String s,int i,int j)
+    public int helper(String s,int i,int j)
     {
-        while(i<j)
+        int count=0;
+      
+        while(i>=0 && j<s.length())
         {
-            if(s.charAt(i)!=s.charAt(j))
+            if(s.charAt(i)==s.charAt(j))
             {
-                return false;
+                count++;
             }
-            i++;
-            j--;
+            else
+            {
+                return count;
+            }
+            i--;
+            j++;
         }
-        return true;
+        return count;
     }
     public int countSubstrings(String s) {
 
-        int count=0;
+        int totalCount=0;
 
         for(int i=0; i<s.length(); i++)
         {
-            for(int j=i; j<s.length(); j++)
-            {
-                if(ispalindrome(s,i,j))
-                {
-                    count++;
-                }
-            }
-        }
+            int x=helper(s,i,i);
+            int y=helper(s,i,i+1);
 
-        return count;
+            totalCount=totalCount+x+y;
+            
+        }
+        return totalCount;
     }
 }
