@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/Saurav09K/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Saurav09K/leetcode-solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Saurav09K/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Saurav09K/leetcode-solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Stack
 |  |
 | ------- |
