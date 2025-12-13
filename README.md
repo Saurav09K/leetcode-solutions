@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Saurav09K/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Saurav09K/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/Saurav09K/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
+| [1929-concatenation-of-array](https://github.com/Saurav09K/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Saurav09K/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Saurav09K/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
