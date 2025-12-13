@@ -17,6 +17,8 @@ class Solution {
     // }
 
     //Tabulation
+    istead of a 2d dp array use a 1d dp array, because we only want one row answer and previous rows answers are not needed to compute further , initialize the
+    dp with base case and overrite it with new answers and return dp[0] at last as the final answer.
     public int minimumTotal(List<List<Integer>> triangle) {
         int n=triangle.size();
         dp=new Integer[n];
