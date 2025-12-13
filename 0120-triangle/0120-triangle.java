@@ -15,13 +15,21 @@ class Solution {
         return dp[i][j]=arr.get(i).get(j)+Math.min(f(arr,i+1,j,n),f(arr,i+1,j+1,n));
     }
     public int minimumTotal(List<List<Integer>> triangle) {
-        int size=triangle.size();
-        dp=new Integer[size][size];
+        int n=triangle.size();
+        dp=new Integer[n][n];
 
-        for(Integer a[]: dp)
+        for(int j=0; j<n; j++) // base case initialization
         {
-            Arrays.fill(a,null);
+            dp[n-1][j]=triangle.get(n-1).get(j);
         }
-        return f(triangle,0,0,triangle.size());
+
+        for(int i=n-2; i>=0; i--)
+        {
+            for(int j=0; j<triangle.get(i).size(); j++)
+            {
+                dp[i][j]=triangle.get(i).get(j)+Math.min(dp[i+1][j],dp[i+1][j+1]);
+            }
+        }
+        return dp[0][0];
     }
 }
