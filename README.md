@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Saurav09K/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/Saurav09K/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Saurav09K/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Saurav09K/leetcode-solutions/tree/master/0064-minimum-path-sum) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Saurav09K/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0647-palindromic-substrings](https://github.com/Saurav09K/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Saurav09K/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Saurav09K/leetcode-solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -73,5 +75,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Saurav09K/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0647-palindromic-substrings](https://github.com/Saurav09K/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 <!---LeetCode Topics End-->
