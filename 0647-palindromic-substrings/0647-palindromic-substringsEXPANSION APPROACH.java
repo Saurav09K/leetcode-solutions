@@ -1,5 +1,5 @@
 class Solution {
-    public int helper(String s,int i,int j)   <----------functionn expands at the center of the string
+    public int helper(String s,int i,int j)  // <----------functionn expands at the center of the string
     {
         int count=0;
       
@@ -7,7 +7,7 @@ class Solution {
         {
             if(s.charAt(i)==s.charAt(j))
             {
-                count++;        <---------count is it palindrome or not
+                count++;      //  <---------count is it palindrome or not
             }
             else
             {
