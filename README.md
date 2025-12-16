@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Saurav09K/leetcode-solutions/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Saurav09K/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Saurav09K/leetcode-solutions/tree/master/0213-house-robber-ii) |
+| [0931-minimum-falling-path-sum](https://github.com/Saurav09K/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/Saurav09K/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1929-concatenation-of-array](https://github.com/Saurav09K/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Saurav09K/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Saurav09K/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0647-palindromic-substrings](https://github.com/Saurav09K/leetcode-solutions/tree/master/0647-palindromic-substrings) |
+| [0931-minimum-falling-path-sum](https://github.com/Saurav09K/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/Saurav09K/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Saurav09K/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Saurav09K/leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/Saurav09K/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 ## String
 |  |
 | ------- |
