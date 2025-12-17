@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Saurav09K/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/Saurav09K/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/Saurav09K/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
+| [1049-last-stone-weight-ii](https://github.com/Saurav09K/leetcode-solutions/tree/master/1049-last-stone-weight-ii) |
 | [1929-concatenation-of-array](https://github.com/Saurav09K/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Saurav09K/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0647-palindromic-substrings](https://github.com/Saurav09K/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0931-minimum-falling-path-sum](https://github.com/Saurav09K/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
+| [1049-last-stone-weight-ii](https://github.com/Saurav09K/leetcode-solutions/tree/master/1049-last-stone-weight-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/Saurav09K/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
