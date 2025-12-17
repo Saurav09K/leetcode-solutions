@@ -24,14 +24,14 @@ class Solution {
         
         for(int a: arr)
         {
-            totalSum=totalSum+a;
+            totalSum=totalSum+a; // calculate total sum
         }
 
-        if(totalSum%2==1) return false;
+        if(totalSum%2==1) return false; // if sum is odd return false, because it cant be equally partitioned
 
         dp=new Boolean[n][(totalSum/2)+1];// extra size of +1 because if sum is 10, then we need dp[n][10] so to access 10 we need +1 size otherwise we will have 0 to 9 only.
 
 
-        return SubsetSum(arr,totalSum/2,n);
+        return SubsetSum(arr,totalSum/2,n); // call on the half sum and if it gives true , means other half also present
     }
 }
