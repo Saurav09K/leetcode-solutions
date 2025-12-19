@@ -1,7 +1,17 @@
+/* base case can be optimised like this also, for not going deep in recursion
+    if(capacity==0)
+        {
+            return 0;
+        }
+        if(n==1)
+        {
+            return (capacity/wt[0]) * val[0];
+        }
+*/
 class Solution {
     public int f(int val[],int wt[],int capacity,int n)
     {
-        if(capacity==0 || n==0)
+        if(capacity==0 || n==0)    
         {
             return 0;
         }
