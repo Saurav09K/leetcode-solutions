@@ -22,13 +22,36 @@ class Solution {
         int n=text2.length();
         dp=new int[m+1][n+1];
         
-        for(int arr[]:dp)
+        // for(int arr[]:dp)
+        // {
+        //     Arrays.fill(arr,-1);
+        // }
+
+        // tabulation
+
+        for(int i=0; i<=n; i++)
         {
-            Arrays.fill(arr,-1);
+            dp[0][i]=0;
+        }
+        for(int i=0; i<=m; i++)
+        {
+            dp[i][0]=0;
         }
 
-        return f(text1,text2,m,n);
-
-       
+        for(int i=1; i<=m; i++)
+        {
+            for(int j=1; j<=n; j++)
+            {
+                if(text1.charAt(i-1)==text2.charAt(j-1))
+                {
+                    dp[i][j]=1+dp[i-1][j-1];
+                }
+                else
+                {
+                    dp[i][j]=Math.max(dp[i-1][j],dp[i][j-1]);
+                }
+            }
+        }
+        return dp[m][n];
     }
 }
