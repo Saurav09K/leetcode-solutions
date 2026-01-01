@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Saurav09K/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Saurav09K/leetcode-solutions/tree/master/1049-last-stone-weight-ii) |
 | [1162-as-far-from-land-as-possible](https://github.com/Saurav09K/leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Saurav09K/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1929-concatenation-of-array](https://github.com/Saurav09K/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Saurav09K/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/Saurav09K/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1162-as-far-from-land-as-possible](https://github.com/Saurav09K/leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Saurav09K/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## String
 |  |
 | ------- |
@@ -118,4 +120,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Saurav09K/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Saurav09K/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
