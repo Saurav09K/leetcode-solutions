@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Saurav09K/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0583-delete-operation-for-two-strings](https://github.com/Saurav09K/leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/Saurav09K/leetcode-solutions/tree/master/0647-palindromic-substrings) |
+| [0696-count-binary-substrings](https://github.com/Saurav09K/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Saurav09K/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1092-shortest-common-supersequence](https://github.com/Saurav09K/leetcode-solutions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Saurav09K/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Saurav09K/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Saurav09K/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0647-palindromic-substrings](https://github.com/Saurav09K/leetcode-solutions/tree/master/0647-palindromic-substrings) |
+| [0696-count-binary-substrings](https://github.com/Saurav09K/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Saurav09K/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Breadth-First Search
 |  |
