@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/Saurav09K/leetcode-solutions/tree/master/0343-integer-break) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Saurav09K/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1137-n-th-tribonacci-number](https://github.com/Saurav09K/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Saurav09K/leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Saurav09K/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Saurav09K/leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/Saurav09K/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Saurav09K/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Saurav09K/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Saurav09K/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Saurav09K/leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Rolling Hash
 |  |
 | ------- |
