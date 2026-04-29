@@ -16,7 +16,10 @@ class Solution {
         return dp[i] = Math.max(take,notTake);
     }
     public int deleteAndEarn(int[] arr) {
-        int points[] = new int[10001];
+        int max=0;
+        for(int a: arr) max=Math.max(a,max);
+
+        int points[] = new int[max+1];
         dp = new Integer[10001];
         for(int nums: arr)
         {
