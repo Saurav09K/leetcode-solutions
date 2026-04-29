@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Saurav09K/leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/Saurav09K/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0740-delete-and-earn](https://github.com/Saurav09K/leetcode-solutions/tree/master/0740-delete-and-earn) |
+| [0790-domino-and-tromino-tiling](https://github.com/Saurav09K/leetcode-solutions/tree/master/0790-domino-and-tromino-tiling) |
 | [0907-sum-of-subarray-minimums](https://github.com/Saurav09K/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Saurav09K/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/Saurav09K/leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
