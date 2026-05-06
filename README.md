@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Saurav09K/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/Saurav09K/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Saurav09K/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Saurav09K/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/Saurav09K/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0740-delete-and-earn](https://github.com/Saurav09K/leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0907-sum-of-subarray-minimums](https://github.com/Saurav09K/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Saurav09K/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Saurav09K/leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/Saurav09K/leetcode-solutions/tree/master/0647-palindromic-substrings) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Saurav09K/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/Saurav09K/leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0790-domino-and-tromino-tiling](https://github.com/Saurav09K/leetcode-solutions/tree/master/0790-domino-and-tromino-tiling) |
 | [0907-sum-of-subarray-minimums](https://github.com/Saurav09K/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Saurav09K/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Saurav09K/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Saurav09K/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Sorting
 |  |
