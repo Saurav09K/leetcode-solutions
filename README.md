@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Saurav09K/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Saurav09K/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1929-concatenation-of-array](https://github.com/Saurav09K/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Saurav09K/leetcode-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Saurav09K/leetcode-solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/Saurav09K/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/Saurav09K/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Saurav09K/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1162-as-far-from-land-as-possible](https://github.com/Saurav09K/leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Saurav09K/leetcode-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Memoization
 |  |
 | ------- |
