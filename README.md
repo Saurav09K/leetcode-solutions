@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Saurav09K/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/Saurav09K/leetcode-solutions/tree/master/0322-coin-change) |
 | [1162-as-far-from-land-as-possible](https://github.com/Saurav09K/leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1345-jump-game-iv](https://github.com/Saurav09K/leetcode-solutions/tree/master/1345-jump-game-iv) |
@@ -267,4 +268,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Saurav09K/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+## Depth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Saurav09K/leetcode-solutions/tree/master/0207-course-schedule) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Saurav09K/leetcode-solutions/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Saurav09K/leetcode-solutions/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
