@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Saurav09K/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Saurav09K/leetcode-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Saurav09K/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Saurav09K/leetcode-solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Saurav09K/leetcode-solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/Saurav09K/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/Saurav09K/leetcode-solutions/tree/master/3976-maximum-subarray-sum-after-multiplier) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/Saurav09K/leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Saurav09K/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2540-minimum-common-value](https://github.com/Saurav09K/leetcode-solutions/tree/master/2540-minimum-common-value) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Saurav09K/leetcode-solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3719-longest-balanced-subarray-i](https://github.com/Saurav09K/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Sliding Window
 |  |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Saurav09K/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Saurav09K/leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Saurav09K/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Saurav09K/leetcode-solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
 |  |
 | ------- |
