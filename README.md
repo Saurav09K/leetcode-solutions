@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Saurav09K/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1049-last-stone-weight-ii](https://github.com/Saurav09K/leetcode-solutions/tree/master/1049-last-stone-weight-ii) |
 | [1162-as-far-from-land-as-possible](https://github.com/Saurav09K/leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Saurav09K/leetcode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1345-jump-game-iv](https://github.com/Saurav09K/leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Saurav09K/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Saurav09K/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/Saurav09K/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Saurav09K/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1162-as-far-from-land-as-possible](https://github.com/Saurav09K/leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Saurav09K/leetcode-solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Saurav09K/leetcode-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/Saurav09K/leetcode-solutions/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 ## Memoization
