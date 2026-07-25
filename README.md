@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Saurav09K/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Saurav09K/leetcode-solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/Saurav09K/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
+| [3976-maximum-subarray-sum-after-multiplier](https://github.com/Saurav09K/leetcode-solutions/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 ## Hash Table
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Saurav09K/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1162-as-far-from-land-as-possible](https://github.com/Saurav09K/leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Saurav09K/leetcode-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3976-maximum-subarray-sum-after-multiplier](https://github.com/Saurav09K/leetcode-solutions/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 ## Memoization
 |  |
 | ------- |
