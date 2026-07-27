@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Saurav09K/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Saurav09K/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1929-concatenation-of-array](https://github.com/Saurav09K/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Saurav09K/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2540-minimum-common-value](https://github.com/Saurav09K/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Saurav09K/leetcode-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Saurav09K/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Saurav09K/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1345-jump-game-iv](https://github.com/Saurav09K/leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Saurav09K/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Saurav09K/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2540-minimum-common-value](https://github.com/Saurav09K/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Saurav09K/leetcode-solutions/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3719-longest-balanced-subarray-i](https://github.com/Saurav09K/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Saurav09K/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Saurav09K/leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Depth-First Search
 |  |
 | ------- |
