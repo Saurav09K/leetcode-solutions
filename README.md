@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Saurav09K/leetcode-solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Saurav09K/leetcode-solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Saurav09K/leetcode-solutions/tree/master/2697-lexicographically-smallest-palindrome) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Saurav09K/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
 |  |
 | ------- |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Saurav09K/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Saurav09K/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Saurav09K/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Saurav09K/leetcode-solutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Heap (Priority Queue)
 |  |
@@ -296,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Saurav09K/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Saurav09K/leetcode-solutions/tree/master/0210-course-schedule-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Saurav09K/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
